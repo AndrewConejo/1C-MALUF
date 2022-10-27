@@ -1,5 +1,5 @@
 body {
-    background-color:#000000d2;
+    background-color:#7be2f0d2;
 }
 
 nav li {
@@ -17,14 +17,14 @@ nav a{
 }
 
 h1 {
-    color: #ffffff;
+    color: #000000;
     text-align: center;
 }
 h2 {
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
 }
 p {
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
 
 }
 #imagem-principal {
